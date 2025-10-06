@@ -3,10 +3,10 @@
     <parent>
         <groupId>com.dmdev</groupId>
         <artifactId>first-maven</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>database</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
     <name>Archetype - database</name>
     <url>http://maven.apache.org</url>
 </project>
